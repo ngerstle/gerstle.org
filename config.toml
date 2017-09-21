@@ -1,0 +1,5 @@
+baseURL = "https://gerstle.org/"
+languageCode = "en-us"
+title = "Gerstle"
+theme = "darksimplicity"
+copyright = "<!-- Copyright 2017 --> "
