@@ -14,17 +14,10 @@ canonifyurls = true
 [params]
 #google_analytics_id=""
 
-#[taxonomies]
-#tag = "tags"
 
 [menu]
-#  [[menu.top]]
-#  name = "Twitter"
-#  pre = ""
-#  weight = -100
-#  url = "http://www.twitter.com/Username"
-#  [[menu.top]]
-#  name = "RSS"
-#  pre = ""
-#  weight = -90
-#  url = "index.xml"
+  [[menu.top]]
+  name = "RSS"
+  pre = ""
+  weight = -90
+  url = "index.xml"
