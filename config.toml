@@ -3,3 +3,28 @@ languageCode = "en-us"
 title = "Gerstle"
 theme = "darksimplicity"
 copyright = "<!-- Copyright 2017 --> "
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = false
+canonifyurls = true
+
+
+[params]
+#google_analytics_id=""
+
+#[taxonomies]
+#tag = "tags"
+
+[menu]
+#  [[menu.top]]
+#  name = "Twitter"
+#  pre = ""
+#  weight = -100
+#  url = "http://www.twitter.com/Username"
+#  [[menu.top]]
+#  name = "RSS"
+#  pre = ""
+#  weight = -90
+#  url = "index.xml"
